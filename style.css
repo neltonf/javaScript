@@ -1,0 +1,23 @@
+.container-1 {
+    border: 2px solid black;
+    width: 75%;
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.flex-container-1 {
+    display: flex;
+    border: 2px solid black;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+
+.flex-container-1 h1 {
+    display: flex;
+    border: 2px dotted black;
+    padding: 10px;
+    align-items: center;
+}
